@@ -1,2 +1,2 @@
 # learn
-Learn Repofot git
+Learn Repo for git
